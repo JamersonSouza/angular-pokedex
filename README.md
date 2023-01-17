@@ -1,27 +1,29 @@
-# Pokedex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+# Pokedex Angular
 
-## Development server
+Projeto desenvolvido utilizando Angular v2+ onde realizei o consumo da PokéAPI para a listagem e busca exibindo as respectivas informações para pokémons selecionados.
+## Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+    <img src="src/assets/pokedex_demoapp.gif"> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Instalação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para testar o Projeto, realize o clone do repósitorio e abra no seu VS Code. Em seguida execute os comandos abaixos:
 
-## Running unit tests
+```bash
+  cd pokedex
+  npm install
+  ng s
+```
+    
+## 🔗 Um pouco mais sobre mim
+[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jamersondev.tech)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamersonsouza)
 
-## Running end-to-end tests
+[![youtube](https://img.shields.io/badge/youtube-fc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxApzg-p6Q4kMm30c84x-Qw)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![instagram](https://img.shields.io/badge/instagram-ec133b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/jamerson.zip/)
