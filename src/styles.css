@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import url(configCss/variaveis.css);
+@import url(configCss/reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap');
+
+@import url(configCss/animations.css);
+main {
+  max-width: 600px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+html{background-color: var(--first-color);  font-family: 'Poppins', sans-serif;}
