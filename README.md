@@ -29,4 +29,4 @@ Para testar o Projeto, realize o clone do repósitorio e abra no seu VS Code. Em
 [![youtube](https://img.shields.io/badge/youtube-fc0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxApzg-p6Q4kMm30c84x-Qw)
 
 
-[![instagram](https://img.shields.io/badge/instagram-ec133b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/jamerson.zip/)
+[![instagram](https://img.shields.io/badge/instagram-ec133b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jamerson.zip/)
