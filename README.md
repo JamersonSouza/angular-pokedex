@@ -2,6 +2,12 @@
 # Pokedex Angular
 
 Projeto desenvolvido utilizando Angular v2+ onde realizei o consumo da PokéAPI para a listagem e busca exibindo as respectivas informações para pokémons selecionados.
+
+## Deploy do projeto na Vercel, confira:
+
+https://angular-pokedex-e42gzod8w-jamersonsouza.vercel.app/
+
+
 ## Demonstração
 <img src="/src/assets/pokedex_demoapp.gif">
 
