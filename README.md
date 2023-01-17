@@ -3,10 +3,7 @@
 
 Projeto desenvolvido utilizando Angular v2+ onde realizei o consumo da PokéAPI para a listagem e busca exibindo as respectivas informações para pokémons selecionados.
 ## Demonstração
-
-
-    <img src="src/assets/pokedex_demoapp.gif"> 
-
+<img src="/src/assets/pokedex_demoapp.gif">
 
 ## Instalação
 
